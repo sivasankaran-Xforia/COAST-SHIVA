@@ -1,0 +1,31 @@
+VID,PID,Vendor Name,Part Name,On-Time %,DPPM,Orders,Avg Days,Last Delivery,Quality %,Rating,Linked
+V5205001,FA-2024-001,Precision Flange Corp,Flange Assembly,94.2,125,89,12,8/15/2025,96.3,A+,Yes
+V5205002,FA-2024-001,Industrial Connections Ltd,Flange Assembly,91.8,180,45,15,8/12/2025,94.7,A,Yes
+V5205003,FA-2024-001,MetalWorks Manufacturing,Flange Assembly,88.5,220,67,18,8/8/2025,92.1,A,No
+V5205019,FA-2024-001,Budget Flanges Inc,Flange Assembly,71.2,95,156,28,7/22/2025,78.4,C,No
+V5205020,FA-2024-001,Discount Metal Supply,Flange Assembly,65.8,72,203,35,7/15/2025,74.2,D,No
+V5205004,BH-2024-002,Superior Bearing Solutions,Bearing Housing Assembly,96.7,95,156,8,8/18/2025,97.8,A+,Yes
+V5205005,BH-2024-002,TechFlow Industries,Bearing Housing Assembly,93.1,145,78,11,8/14/2025,95.2,A+,Yes
+V5205006,BH-2024-002,Reliable Parts Network,Bearing Housing Assembly,89.3,190,92,16,8/10/2025,91.6,A,No
+V5205021,BH-2024-002,Economy Bearings Co,Bearing Housing Assembly,73.5,110,145,24,7/28/2025,79.8,C,No
+V5205022,BH-2024-002,Cheap Parts Warehouse,Bearing Housing Assembly,68.9,87,187,31,7/20/2025,76.1,D,No
+V5205007,SC-2024-003,Dynamic Coupling Systems,Flexible Shaft Coupling,95.4,110,134,9,8/17/2025,96.9,A+,Yes
+V5205008,SC-2024-003,Advanced Motion Control,Flexible Shaft Coupling,92.6,165,56,13,8/13/2025,94.3,A,Yes
+V5205009,SC-2024-003,Power Transmission Inc,Flexible Shaft Coupling,87.9,235,23,19,8/7/2025,89.7,B+,No
+V5205023,SC-2024-003,Bargain Couplings Ltd,Flexible Shaft Coupling,74.8,98,178,26,7/25/2025,81.2,C,No
+V5205024,SC-2024-003,Low-Cost Motion Parts,Flexible Shaft Coupling,62.4,65,245,42,7/12/2025,73.8,D,No
+V5205010,VB-2024-004,Premium Valve Corporation,Ball Valve Body Assembly,97.1,75,245,7,8/19/2025,98.4,A+,Yes
+V5205011,VB-2024-004,Industrial Flow Solutions,Ball Valve Body Assembly,94.8,120,189,10,8/16/2025,96.1,A+,Yes
+V5205012,VB-2024-004,Stainless Systems Ltd,Ball Valve Body Assembly,90.2,175,67,14,8/11/2025,93.5,A,No
+V5205025,VB-2024-004,Generic Valve Supply,Ball Valve Body Assembly,76.3,89,201,29,7/30/2025,82.7,C,No
+V5205026,VB-2024-004,Budget Valve Factory,Ball Valve Body Assembly,69.1,56,289,38,7/18/2025,75.6,D,No
+V5205013,SG-2024-005,Precision Gear Works,Spur Gear Assembly,93.7,135,98,11,8/15/2025,95.8,A+,Yes
+V5205014,SG-2024-005,Quality Gear Manufacturing,Spur Gear Assembly,91.3,185,112,15,8/12/2025,93.2,A,Yes
+V5205015,SG-2024-005,Heavy Duty Gears Inc,Spur Gear Assembly,88.6,210,76,17,8/9/2025,90.4,B+,No
+V5205027,SG-2024-005,Standard Gears Co,Spur Gear Assembly,72.9,102,167,27,7/26/2025,80.5,C,No
+V5205028,SG-2024-005,Economy Gear Works,Spur Gear Assembly,66.2,78,234,36,7/14/2025,74.8,D,No
+V5205016,MM-2024-006,Aluminum Fabrication Co,Electric Motor Mount Bracket,95.8,105,167,8,8/18/2025,97.2,A+,Yes
+V5205017,MM-2024-006,Precision Machining Works,Electric Motor Mount Bracket,92.4,155,89,12,8/14/2025,94.6,A,Yes
+V5205018,MM-2024-006,Custom Bracket Solutions,Electric Motor Mount Bracket,89.1,195,45,16,8/10/2025,91.8,A,No
+V5205029,MM-2024-006,Basic Brackets Inc,Electric Motor Mount Bracket,75.6,92,198,25,7/29/2025,83.1,C,No
+V5205030,MM-2024-006,Discount Mounting Co,Electric Motor Mount Bracket,64.7,71,267,41,7/11/2025,72.3,D,No
