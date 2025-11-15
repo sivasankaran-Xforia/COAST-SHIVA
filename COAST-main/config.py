@@ -1,1 +1,0 @@
-PROMPT_TEMPLATE_FILE = r"/Users/harishreekarthik/Downloads/Xforia_COAST/demo/prompt_template_file.txt"
