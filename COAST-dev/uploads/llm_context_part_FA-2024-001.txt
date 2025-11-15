@@ -1,0 +1,277 @@
+===== INPUT DESCRIPTOR =====
+Part No: FA-2024-001
+Material: STAINLESS STEEL 316
+Date: 09/02/20
+DWG By / Drawn By: J.SMITH TRICE
+CHK By / Checked By: M.JONES
+Title / Part Name: FLANGE ASSEMBLY
+Length (heuristic): None
+BOM: []
+
+Resolved Part Number: FA-2024-001
+Resolved Part Name  : FLANGE ASSEMBLY
+Resolved Dimensions : (not provided)
+
+===== MATCHES IN BOM =====
+-- Match #1
+BOM ID: BOM-FA-001
+Part ID (PID): FA-2024-001
+Part Name: Flange Assembly Main Body
+Description: Stainless steel flange body with pipe connection
+Quantity: 1
+Unit: ea
+Category: Mechanical
+Specification: ANSI B16.5 Class 150
+Lead Time: 3-4 weeks
+Critical: Yes
+Linked to Vendor: Yes
+Dimensions (mm): 310x140x60
+Material: SS 316
+Tolerance: ±0.1
+Finish: Machined
+
+-- Match #2
+BOM ID: BOM-FA-002
+Part ID (PID): FA-2024-001
+Part Name: Flange Plate
+Description: Main mounting flange plate
+Quantity: 1
+Unit: ea
+Category: Mechanical
+Specification: 260x140x20
+Lead Time: 2 weeks
+Critical: Yes
+Linked to Vendor: Yes
+Dimensions (mm): 260x140x20
+Material: SS 316
+Tolerance: ±0.1
+Finish: Machined
+
+-- Match #3
+BOM ID: BOM-FA-003
+Part ID (PID): FA-2024-001
+Part Name: Pipe Section
+Description: Connecting pipe section
+Quantity: 1
+Unit: ea
+Category: Mechanical
+Specification: DN50 Schedule 40
+Lead Time: 2 weeks
+Critical: No
+Linked to Vendor: Yes
+Dimensions (mm): 80x50x40
+Material: SS 316
+Tolerance: ±0.2
+Finish: Welded
+
+-- Match #4
+BOM ID: BOM-FA-004
+Part ID (PID): FA-2024-001
+Part Name: Flange Bolts
+Description: High tensile flange mounting bolts
+Quantity: 4
+Unit: pcs
+Category: Fasteners
+Specification: M16x60 Grade 8.8
+Lead Time: 1 week
+Critical: No
+Linked to Vendor: Yes
+Dimensions (mm): M16x60
+Material: Steel
+Tolerance: ISO 4762
+Finish: Zinc Plated
+
+-- Match #5
+BOM ID: BOM-FA-005
+Part ID (PID): FA-2024-001
+Part Name: Gasket
+Description: High temperature flange gasket
+Quantity: 2
+Unit: pcs
+Category: Seals & Gaskets
+Specification: PTFE Full Face
+Lead Time: 1 week
+Critical: No
+Linked to Vendor: Yes
+Dimensions (mm): Ø260x50x3
+Material: PTFE
+Tolerance: ±0.1
+Finish: Molded
+
+-- Match #6
+BOM ID: BOM-FA-006
+Part ID (PID): FA-2024-001
+Part Name: Pipe Flange
+Description: End pipe flange connection
+Quantity: 1
+Unit: ea
+Category: Mechanical
+Specification: DN50 PN16 Weld Neck
+Lead Time: 2 weeks
+Critical: No
+Linked to Vendor: Yes
+Dimensions (mm): Ø100x50x15
+Material: SS 316
+Tolerance: ±0.1
+Finish: Machined
+
+-- Match #7
+BOM ID: BOM-FA-007
+Part ID (PID): FA-2024-001
+Part Name: Weld Backing Ring
+Description: Internal weld support ring
+Quantity: 2
+Unit: pcs
+Category: Assembly
+Specification: TIG Welding Support
+Lead Time: 1 week
+Critical: No
+Linked to Vendor: No
+Dimensions (mm): Ø52x3
+Material: SS 316
+Tolerance: ±0.2
+Finish: Pickled
+
+-- Match #8
+BOM ID: BOM-FA-008
+Part ID (PID): FA-2024-001
+Part Name: Nameplate
+Description: Part identification nameplate
+Quantity: 1
+Unit: ea
+Category: Assembly
+Specification: Laser Engraved
+Lead Time: 3 days
+Critical: No
+Linked to Vendor: No
+Dimensions (mm): 50x25x2
+Material: SS 304
+Tolerance: ±0.1
+Finish: Laser Etched
+
+===== MATCHES IN PURCHASE_ORDERS =====
+-- Match #1
+Vendor: Precision Flange Corp
+Part ID: FA-2024-001
+Date: 8/31/2025
+Amount ($): $2847.50
+Location: Phoenix, AZ
+Materials Supported: Stainless Steel Flanges
+PO Status: Delivered
+Expected Delivery: 9/7/2025
+Qty Ordered: 15
+
+-- Match #2
+Vendor: Industrial Connections Ltd
+Part ID: FA-2024-001
+Date: 8/22/2025
+Amount ($): $2456.80
+Location: Buffalo, NY
+Materials Supported: Stainless Steel Flanges
+PO Status: Delivered
+Expected Delivery: 8/29/2025
+Qty Ordered: 12
+
+-- Match #3
+Vendor: MetalWorks Manufacturing
+Part ID: FA-2024-001
+Date: 8/16/2025
+Amount ($): $2156.90
+Location: Phoenix, AZ
+Materials Supported: Stainless Steel Flanges
+PO Status: Pending
+Expected Delivery: 9/12/2025
+Qty Ordered: 10
+
+-- Match #4
+Vendor: Budget Flanges Inc
+Part ID: FA-2024-001
+Date: 8/10/2025
+Amount ($): $1456.75
+Location: Phoenix, AZ
+Materials Supported: Stainless Steel Flanges
+PO Status: Pending
+Expected Delivery: 9/15/2025
+Qty Ordered: 18
+
+-- Match #5
+Vendor: Discount Metal Supply
+Part ID: FA-2024-001
+Date: 7/28/2025
+Amount ($): $1234.90
+Location: Buffalo, NY
+Materials Supported: Stainless Steel Flanges
+PO Status: Cancelled
+Expected Delivery: 8/15/2025
+Qty Ordered: 22
+
+===== MATCHES IN VENDOR_DATABASE =====
+-- Match #1
+VID: V5205001
+PID: FA-2024-001
+Vendor Name: Precision Flange Corp
+Part Name: Flange Assembly
+On-Time %: 94.2
+DPPM: 125
+Orders: 89
+Avg Days: 12
+Last Delivery: 8/15/2025
+Quality %: 96.3
+Rating: A+
+Linked: Yes
+
+-- Match #2
+VID: V5205002
+PID: FA-2024-001
+Vendor Name: Industrial Connections Ltd
+Part Name: Flange Assembly
+On-Time %: 91.8
+DPPM: 180
+Orders: 45
+Avg Days: 15
+Last Delivery: 8/12/2025
+Quality %: 94.7
+Rating: A
+Linked: Yes
+
+-- Match #3
+VID: V5205003
+PID: FA-2024-001
+Vendor Name: MetalWorks Manufacturing
+Part Name: Flange Assembly
+On-Time %: 88.5
+DPPM: 220
+Orders: 67
+Avg Days: 18
+Last Delivery: 8/8/2025
+Quality %: 92.1
+Rating: A
+Linked: No
+
+-- Match #4
+VID: V5205019
+PID: FA-2024-001
+Vendor Name: Budget Flanges Inc
+Part Name: Flange Assembly
+On-Time %: 71.2
+DPPM: 95
+Orders: 156
+Avg Days: 28
+Last Delivery: 7/22/2025
+Quality %: 78.4
+Rating: C
+Linked: No
+
+-- Match #5
+VID: V5205020
+PID: FA-2024-001
+Vendor Name: Discount Metal Supply
+Part Name: Flange Assembly
+On-Time %: 65.8
+DPPM: 72
+Orders: 203
+Avg Days: 35
+Last Delivery: 7/15/2025
+Quality %: 74.2
+Rating: D
+Linked: No
